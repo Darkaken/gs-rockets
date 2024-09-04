@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "type": "engine",
+  "tier": 1,
+  "required": true,
+  "can_edit": false,
+  "repeatable": 1,
+  "structure": [
+    ["XXX", "XXX", "XXX"],
+    ["XXX", "XXX", "XXX"],
+    ["XXX", "XXX", "XXX"],
+    ["XXX", "XXX", "XXX"]
+  ]
+}
